@@ -1,0 +1,33 @@
+------Plaintextfile:text_sample.txt, Key:cipherkey------
+------Genetic Algorithm Settings: Populationsize:100, Mutation:0,25, Crossover:0,85------
+Generation 1: Best solution found is Key:iijhmxten with 0,331546456672316 fitness.
+Generation 2: Best solution found is Key:ciiskuhbm with 0,356254438695708 fitness.
+Generation 3: Best solution found is Key:ciiskuybm with 0,371696151100052 fitness.
+Generation 6: Best solution found is Key:ciiskuodm with 0,384734090732454 fitness.
+Generation 7: Best solution found is Key:ciisxuxba with 0,388775931636673 fitness.
+Generation 9: Best solution found is Key:biisxuxba with 0,393332082528842 fitness.
+Generation 10: Best solution found is Key:ciisxuxda with 0,409717641606187 fitness.
+Generation 12: Best solution found is Key:ciiswuxda with 0,417539703936029 fitness.
+Generation 15: Best solution found is Key:ciisxvmda with 0,424008868346168 fitness.
+Generation 17: Best solution found is Key:cjisxvmda with 0,428654896818963 fitness.
+Generation 19: Best solution found is Key:cjisxnmda with 0,429049060457981 fitness.
+Generation 21: Best solution found is Key:cjioxnmda with 0,429645280546403 fitness.
+Generation 24: Best solution found is Key:ciioxnmda with 0,433357653271072 fitness.
+Generation 26: Best solution found is Key:ciioxnmdy with 0,435502974392463 fitness.
+Generation 28: Best solution found is Key:ciioxnmey with 0,460983990418714 fitness.
+Generation 30: Best solution found is Key:ciioxneey with 0,475515133004547 fitness.
+Generation 31: Best solution found is Key:ciioxnjey with 0,476501017952562 fitness.
+Generation 32: Best solution found is Key:ciioxnoey with 0,480977026888786 fitness.
+Generation 33: Best solution found is Key:ciioxnkey with 0,536037835028354 fitness.
+Generation 40: Best solution found is Key:ciioxrkey with 0,568167470075518 fitness.
+Generation 42: Best solution found is Key:ciiolrkey with 0,568492629991873 fitness.
+Generation 44: Best solution found is Key:ciiofrkey with 0,581085243746822 fitness.
+Generation 47: Best solution found is Key:ciioerkey with 0,644325369535134 fitness.
+Generation 52: Best solution found is Key:ciiherkey with 0,670132408670988 fitness.
+Generation 54: Best solution found is Key:cihherkey with 0,684016355597132 fitness.
+Generation 56: Best solution found is Key:cijherkey with 0,697922040063769 fitness.
+Generation 67: Best solution found is Key:cilherkey with 0,718851132558497 fitness.
+Generation 71: Best solution found is Key:cipherkey with 1,01276508116651 fitness.
+GA done in 71 generations.
+ Best solution found is Key:cipherkey (L=9) with 1,01276508116651 fitness. 
+this is only a sample text to get the needed plain text this text will be used and converted to an unreadable text using different key length here comes a question does it matter if an tree falls in the woods can someone hear it fall or does it make no sound at all this is the real question of the day it probably doesnt make any sound however this time we should check this result to obtain a different solution than the other one of the previous executed sample this text makes absolutely no sense dense hello my name is michael and i am still studying data science at a very cool university please just crack a simple text now this can not be as tricky as it seems bye and out
